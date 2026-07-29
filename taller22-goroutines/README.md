@@ -231,3 +231,7 @@ Numeros de ordenes 20
 
 ## Iteraccion 5
 Se anadio desde el inicio
+
+## Iteraccion 6
+Todas las operaciones completadas. Saliendo
+
